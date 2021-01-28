@@ -1,6 +1,7 @@
 # Azure Stack on Azure VM project
 
-![Deploy to Azure](https://aka.ms/deploytoazurebutton)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FGlendeschema%2FAzureStack-VM-PoC%2Fmaster%2Fazuredeploy.json)
+
 
 Creates new VM and install prerequisites for Azure Stack Hub Development kit (ASDK) to run Proof of Concept.
 
